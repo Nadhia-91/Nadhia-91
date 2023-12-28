@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Nadhia Ahson
-- Studying Data Science
-- Like to explore more...
+
